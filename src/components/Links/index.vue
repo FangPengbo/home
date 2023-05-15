@@ -43,36 +43,36 @@ import {
 // 网站链接数据
 // 建议不要超出6个，若需要超出请自行调整样式
 let linksData = [
+    {
+    icon: Compass,
+    name: "起始页",
+    link: "https://focc.cc/",
+  },
   {
     icon: Blog,
     name: "博客",
-    link: "https://blog.imsyy.top/",
+    link: "https://blog.focc.cc/",
   },
-  {
-    icon: Cloud,
-    name: "网盘",
-    link: "https://pan.imsyy.top/",
-  },
-  {
-    icon: CompactDisc,
-    name: "音乐",
-    link: "https://music.imsyy.top/",
-  },
-  {
-    icon: Compass,
-    name: "起始页",
-    link: "https://nav.imsyy.top/",
-  },
-  {
-    icon: Book,
-    name: "网址集",
-    link: "https://web.imsyy.top/",
-  },
-  {
-    icon: Fire,
-    name: "今日热榜",
-    link: "https://hot.imsyy.top/",
-  },
+  // {
+  //   icon: Cloud,
+  //   name: "网盘",
+  //   link: "https://pan.imsyy.top/",
+  // },
+  // {
+  //   icon: CompactDisc,
+  //   name: "音乐",
+  //   link: "https://music.imsyy.top/",
+  // },
+  // {
+  //   icon: Book,
+  //   name: "网址集",
+  //   link: "https://web.imsyy.top/",
+  // },
+  // {
+  //   icon: Fire,
+  //   name: "今日热榜",
+  //   link: "https://hot.imsyy.top/",
+  // },
 ];
 
 // 链接跳转
