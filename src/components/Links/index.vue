@@ -48,11 +48,11 @@ let linksData = [
     name: "起始页",
     link: "https://focc.cc/",
   },
-  {
-    icon: Blog,
-    name: "博客",
-    link: "https://blog.focc.cc/",
-  },
+  // {
+  //   icon: Blog,
+  //   name: "博客",
+  //   link: "https://blog.focc.cc/",
+  // },
   // {
   //   icon: Cloud,
   //   name: "网盘",
